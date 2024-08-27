@@ -1,0 +1,15 @@
+Sign. Type :              5
+No. Signals:              1
+Signal Size:          18343
+Block Hop:               64
+Block Size:             128
+Samp. Freq :           8.00
+Init. Block:              1
+Final Block:            287
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Signal:                   1
+Norm:              15.66694
+--------------------------------------------------------------
+Block:                    1
+Norm:                     0.013636211823124383
+No.        Coef.           Decaying        Freq            Phase        Tau    Ti    Tf      Rising      dicType PrevAtom  AppRatio   meanAppRat befSup     aftSup     normRatio  SNR(dB)   chosenNet
