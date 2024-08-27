@@ -41,6 +41,6 @@ How to run the project
 ## Authors and Collaborators
 These are the people involved in the project
 
-- Paulo Victor M. R. Huguenin de Lima - Original Author - (git)[https://github.com/paulohuguenin]
+- Paulo Victor M. R. Huguenin de Lima - Original Author - [git](https://github.com/paulohuguenin)
 - Michel Pompeu Tcheou - Advisor - mtcheou@uerj.br
 - Lisandro Lovisolo - Advisor - lisandro@uerj.br
